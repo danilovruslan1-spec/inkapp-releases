@@ -1,5 +1,6 @@
 {
-    "version": "0.2.1",
-    "url": "https://github.com/danilovruslan1-spec/inkapp-releases/releases/download/mac-v0.2.1/InkApp-mac-0.2.1.zip",
-    "notes": "Исправлено: в полях почты и пароля работают ⌘A, ⌘C и ⌘V."
+    "version":  "0.2.2",
+    "url":  "https://github.com/danilovruslan1-spec/inkapp-releases/releases/download/mac-v0.2.2/InkApp-mac-0.2.2.zip",
+    "notes":  "Новый значок в стиле сайта. Обновления теперь скачиваются с сайта inkapp.pro и ставятся сами, когда вы не пользуетесь программой.",
+    "silent":  true
 }
